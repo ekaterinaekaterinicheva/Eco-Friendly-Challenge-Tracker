@@ -6,7 +6,7 @@ This is an Android app that can help users create a routine of simple, everyday 
 - App Logic: Follows the MVVM Pattern to ensure a separation of concerns and utilizes LiveData.
 - Data Management: Room DB provides an abstraction layer over SQLite for data storage.
 - Testing: Unit testing implemented via JUnit to ensure logic reliability.
-- Design: Prototypes mockups created in Figma.
+- Design: Screen wireframes created in Figma
 
 ## App Features
 - Enables users to set a goal by selecting a sustainability challenge from a predefined list and defining a duration to complete this goal.
@@ -21,6 +21,13 @@ This is an Android app that can help users create a routine of simple, everyday 
 
 ## MVVM App Architecture
 ![Component_Interaction_Diagram](https://github.com/user-attachments/assets/efcb8003-2103-4b0b-a629-ecfe6be21b35)
+
+## Figma Wireframes
+### Home Screen and Set Goal Screen
+<img width="408" height="432" alt="Home_and_SetGoal_Screens" src="https://github.com/user-attachments/assets/1ed39e00-5a1c-4b2d-a11a-0a912af8f6f7" />
+
+### Log Progress Screen and History Screen
+<img width="412" height="432" alt="Log_Progress_and_History_Screens" src="https://github.com/user-attachments/assets/f51001ab-5871-42f8-b89a-26ca0cb30e8b" />
 
 ## App Screenshots
 ### Home Screen
